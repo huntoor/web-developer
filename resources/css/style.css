@@ -378,7 +378,7 @@ header {
 /* section-customer */
 
 .section-customer {
-  background-image: linear-gradient(rgba(0, 0, 0, 0.801),rgba(0, 0, 0, 0.801)), url(/resources/img/back-customers.jpg);
+  background-image: linear-gradient(rgba(0, 0, 0, 0.801),rgba(0, 0, 0, 0.801)), url(../img/back-customers.jpg);
   color: #f0f0f0;
   background-size: cover;
   background-attachment: fixed;
